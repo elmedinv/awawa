@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "awawa",
+    "description": "",
+    "home_page_url": "https://www.awawa.agency",
+    "feed_url": "https://www.awawa.agency/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "awawa"
+    },
+    "items": [
+    ]
+}
